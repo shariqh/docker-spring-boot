@@ -1,0 +1,8 @@
+# intelliJ
+.idea
+
+# gradle
+.gradle
+
+# output
+build
